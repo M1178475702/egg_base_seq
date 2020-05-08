@@ -1,0 +1,1 @@
+egg-sequelize-auto -o "./app/model/" -d db_name -h host -u user -x password -p db_port -C camel -t table_name
